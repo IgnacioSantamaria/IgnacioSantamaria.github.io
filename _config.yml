@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/Santamaria_pic.jpg
 
 # your site color theme, true for dark theme, 
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://github.com/IgnacioSantamaria
+url: https://ignaciosantamaria.github.io
 # your url: https://USERNAME.github.io 
 
 permalink: /:title/
@@ -38,7 +38,7 @@ disqus:
 #twitter: mytwitter
 #instagram: myinstagram
 linkedin: ignacio-santamaria-08a79a18/?originalSubdomain=es
-github: IgnacioSantamaria
+github: ignaciosantamaria.github.io
 email: i.santamaria@unican.es
 
 authors:
