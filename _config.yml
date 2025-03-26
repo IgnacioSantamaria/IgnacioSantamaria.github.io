@@ -38,14 +38,14 @@ disqus:
 #twitter: mytwitter
 #instagram: myinstagram
 linkedin: ignacio-santamaria-08a79a18/?originalSubdomain=es
-github: mygithub
+github: IgnacioSantamaria
 email: i.santamaria@unican.es
 
 authors:
   johndoe:
     name: Ignacio Santamaria
     bio: Professor, Universidad de Cantabria, Spain
-    external-image: false
+    external-image: true
     picture: assets/images/Santamaria_pic.jpg
     twitter: johndoe
   jamesfoster:
