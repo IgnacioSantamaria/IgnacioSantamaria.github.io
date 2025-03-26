@@ -20,8 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://IgnacioSantamaria.github.io
-# your url: https://USERNAME.github.io
+url: https://github.com/IgnacioSantamaria
+# your url: https://USERNAME.github.io 
 
 permalink: /:title/
 
