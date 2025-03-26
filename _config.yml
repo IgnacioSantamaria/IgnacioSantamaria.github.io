@@ -38,7 +38,7 @@ disqus:
 #twitter: mytwitter
 #instagram: myinstagram
 linkedin: ignacio-santamaria-08a79a18/?originalSubdomain=es
-github: ignaciosantamaria.github.io
+github: https://ignaciosantamaria.github.io
 email: i.santamaria@unican.es
 
 authors:
@@ -48,12 +48,7 @@ authors:
     external-image: true
     picture: assets/images/Santamaria_pic.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/Santamaria_pic.jpg
-    twitter: jamesfoster
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
