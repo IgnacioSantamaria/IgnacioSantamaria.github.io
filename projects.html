@@ -1,0 +1,39 @@
+---
+layout: default
+title: Projects
+nav: projects
+permalink: /projects/
+description: Funded research projects of Ignacio Santamaria.
+---
+<section class="wrap page-head">
+  <h1>Projects</h1>
+  <div class="filters" role="group" aria-label="Filter by funding source">
+    <button type="button" data-filter="all" aria-pressed="true">All</button>
+    <button type="button" data-filter="eu" aria-pressed="false">European</button>
+    <button type="button" data-filter="national" aria-pressed="false">Spanish national</button>
+    <button type="button" data-filter="industry" aria-pressed="false">Industry and regional</button>
+  </div>
+  <p class="status" id="proj-status" role="status" aria-live="polite"></p>
+</section>
+
+<div class="wrap">
+  <section class="proj-section" data-projsection>
+    {% for p in site.data.projects %}
+    <article class="project" data-type="{{ p.type }}">
+      <div class="proj-years">{{ p.years }}</div>
+      <div>
+        {% if p.acronym %}
+        <h3 class="proj-name">{{ p.acronym | escape }}</h3>
+        <p class="proj-sub">{{ p.title | escape }}</p>
+        {% else %}
+        <h3 class="proj-name">{{ p.title | escape }}</h3>
+        {% endif %}
+        <dl class="proj-meta">
+          <dt>Funder</dt><dd>{{ p.funder | escape }}</dd>
+          {% if p.grant %}<dt>Grant</dt><dd>{{ p.grant | escape }}</dd>{% endif %}
+        </dl>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+</div>

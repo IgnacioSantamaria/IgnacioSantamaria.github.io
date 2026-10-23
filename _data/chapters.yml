@@ -1,0 +1,25 @@
+# Book chapters. Newest first. Optional fields: doi, pdf (local path or full https:// link).
+- authors: S. Van Vaerenbergh, I. Santamaría
+  title: Online Regression with Kernels
+  venue: Regularization, Optimization, Kernels, and Support Vector Machines, no. Machine Learning & Pattern Recognition Series, New York, Chapman and Hall/CRC, pp. 477–501, 2014
+  year: 2014
+- authors: D. Luengo, I. Santamaría
+  title: Asymptotically Optimal Estimation Techniques for Chaotic Digital Communications
+  venue: Chapter 9 in Chaotic Signals in Digital Communications, M. Eisencraft, R. Attux and R. Suyama (Eds.), CRC Press, 2013, (ISBN 978-1-4665-5722-2)
+  year: 2013
+- authors: J. C. Principe, W. Liu, P. Pokharel, J. Xu, I. Santamaría, K. Jeong, Il Parlk, R. Li
+  title: 'Correntropy: Properties and applications in statistics and non-Gaussian signal processing'
+  venue: 'Chapter 11 in Information Theoretic Learning: Renyi’s Entropy and Kernel Perspectives, J. C. Principe, Springer Verlag, 2010, (ISBN 978-1-4419-1569-6)'
+  year: 2010
+- authors: I. Santamaría, J. Vía, V. Elvira, J. Ibáñez, J. Pérez, R. Eickhoff, U. Mayer
+  title: Low Cost and Compact RF-MIMO Transceivers
+  venue: 'Chapter 20 in Handbook of Smart Antennas for RFID Systems, N. Karmakar (Ed.), John Wiley., 2010, (ISBN: 978-0-470-38764-1)'
+  year: 2010
+- authors: J. Vía, I. Santamaría, J. Ibáñez
+  title: Blind Channel Estimation in Space-Time Block Coded Systems
+  venue: 'Chapter VIII in Handbook of Advancements in Smart Antenna Technologies for Wireless Networks, C. Sun, J. Cheng and T. Ohira (Eds.), pp. 156–182, Idea Group Inc., USA, 2008, (ISBN: 978-1-599049885)'
+  year: 2008
+- authors: S. Van Vaerenbergh, I. Santamaría
+  title: A Spectral Clustering Approach for Blind Decoding of MIMO Transmissions over Time-Correlated Fading Channels
+  venue: 'Chapter 12 in Intelligent Systems: Techniques and Applications, Evor Hines et. al. (Eds.), pp. 351–378, Shaker Publishing, The Netherlands, 2008, (ISBN: 978-90-423-0345-4)'
+  year: 2008

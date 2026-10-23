@@ -1,0 +1,205 @@
+# Funded research projects, newest first. Fields: title, acronym, grant, funder, type (eu | national | industry), years.
+# role and note (PI / coordinator) are kept here for reference but are not shown on the site.
+- title: Seamless Integration of Efficient 6G Wireless Technologies for Communication and Sensing
+  acronym: 6G-SENSES
+  grant: Grant Agreement 101139282
+  funder: European Commission, Horizon Europe, Smart Networks and Services Joint Undertaking (SNS JU)
+  type: eu
+  years: 2024–2026
+  role: Principal investigator
+- title: Enabling Communication, Coding and Processing Technologies for Next-Generation Classical-Quantum Networks
+  acronym: MADDIE
+  grant: PID2022-137099NBC43
+  funder: Spanish Ministry of Science, Innovation and Universities, AEI and ERDF (EU)
+  type: national
+  years: 2023–2026
+  role: Principal investigator
+- title: Noncoherent Communications on the Grassmann Manifold
+  acronym: GRASSCOM
+  funder: Huawei Technologies Sweden AB
+  type: industry
+  years: 2021–2023
+  role: Principal investigator
+- title: Advances in Coding and Signal Processing for the Digital Society
+  acronym: ADELE
+  grant: PID2019-104958RB-C43
+  funder: Spanish Ministry of Science and Innovation
+  type: national
+  years: 2020–2023
+  role: Principal investigator
+- title: Coding and Signal Processing for Emerging Wireless Communication and Sensor Networks
+  acronym: CARMEN
+  grant: TEC2016-75067-C4-4-R
+  funder: Spanish Government, MINECO
+  type: national
+  years: 2017–2019
+  role: Principal investigator
+- title: MIMO Communications for Critical Missions
+  funder: BERTEN DSP S.L.
+  type: industry
+  years: '2018'
+  role: Team member
+  note: 'PI: Jesús Ibáñez'
+- title: Nonlinear Predictors for Electric Power Load and Gas Load Forecasting
+  acronym: PREDILECT
+  funder: 3D-Intelligence
+  type: industry
+  years: 2017–2018
+  role: Principal investigator
+- title: COMONSENS Network of Excellence
+  grant: TEC2015-69648-REDC
+  funder: Spanish Government, MINECO
+  type: national
+  years: 2015–2017
+  role: Team member
+  note: 'PI: Javier Rodríguez Fonollosa'
+- title: Advanced Machine Learning Techniques for Pattern Recognition in Time Series
+  grant: TEC2014-57402-JIN
+  funder: Spanish Government, MINECO
+  type: national
+  years: 2015–2017
+  role: Team member
+  note: 'PI: Steven Van Vaerenbergh'
+- title: Radio Access Techniques for Wireless Heterogeneous Networks
+  grant: TEC2013-47141-C3-R
+  funder: Spanish Government, MINECO
+  type: national
+  years: 2014–2016
+  role: Principal investigator
+- title: Automatic System for Detecting and Classifying Defects in Steam Generators
+  funder: TECNATOM
+  type: industry
+  years: 2014–2016
+  role: Principal investigator
+- title: Cooperative and Cognitive Strategies for Interference Management in Wireless Communication Networks
+  grant: TEC2010-19545-C04-03
+  funder: Spanish Government, MICINN
+  type: national
+  years: 2011–2013
+  role: Principal investigator
+- title: Foundations and Methodologies for Future Communication and Sensor Networks
+  grant: CSD2008-00010
+  funder: Spanish Government, MICINN, CONSOLIDER-INGENIO program
+  type: national
+  years: 2008–2013
+  role: Principal investigator of the Universidad de Cantabria team
+  note: 'Coordinator: Javier Rodríguez-Fonollosa (UPC)'
+- title: Algorithm Development for a Low-Cost IMU Unit
+  acronym: KALIMU
+  funder: TTI Norte
+  type: industry
+  years: 2010–2011
+  role: Team member
+  note: 'PI: Jesús Ibáñez'
+- title: Study, Protocol Design and Network Dimensioning for Multihop Network Topologies
+  funder: SAYME S.L.
+  type: industry
+  years: 2009–2010
+  role: Team member
+  note: 'PI: Jesús Ibáñez'
+- title: Design and Dimensioning Study of Server Cluster Architectures
+  funder: SAYME S.L.
+  type: industry
+  years: 2009–2010
+  role: Team member
+  note: 'PI: Jesús Ibáñez'
+- title: Advanced MIMO Systems for Maximum Reliability and Performance
+  acronym: MIMAX
+  grant: FP7-ICT-213952
+  funder: European Commission, Seventh Framework Programme (FP7)
+  type: eu
+  years: 2008–2010
+  role: Principal investigator
+- title: MIMO Technologies for Multiterminal Wireless Networks
+  grant: TEC2007-68020-C04-02
+  funder: Spanish Government, Ministry of Education and Science (MEC)
+  type: national
+  years: 2007–2010
+  role: Principal investigator
+- title: Development and Hardware Demonstration of New Transmission Techniques for MIMO Systems
+  grant: TEC2004-06451-C05-02/TCM
+  funder: Spanish Government, Ministry of Education and Science (MEC)
+  type: national
+  years: 2004–2007
+  role: Team member
+  note: 'PI: Jesús Pérez-Arriaga'
+- title: Advanced System for Information Delivery and Entertainment of Train Passengers through Wireless Technologies
+  funder: Setel S.A., Regional Government of Cantabria (INVESNOVA 2003 program)
+  type: industry
+  years: 2004–2005
+  role: Team member
+  note: 'PI: Luis Vielva'
+- title: Distributed Wireless System for Tower Crane Monitoring
+  funder: Innova Consulting, Regional Government of Cantabria (INVESNOVA 2003 program)
+  type: industry
+  years: 2004–2005
+  role: Team member
+  note: 'PI: Jesús Ibáñez'
+- title: Software Radio Testbed for 4G Mobile Communications Systems
+  grant: TIC2001-0751-C04-03
+  funder: Spanish Government, Ministry of Science and Technology (MCYT)
+  type: national
+  years: 2001–2004
+  role: Principal investigator
+- title: Multiband/Multimission TCR System
+  funder: Thales Alenia Space
+  type: industry
+  years: 2000–2001
+  role: Team member
+  note: 'PI: Jose Luis García'
+- title: Design of Linearized High Power Amplifiers Using Nonlinear Modelling and Predistortion Techniques
+  grant: 1FD97-1863-C02-01
+  funder: Spanish Government (CICYT) and European Union (FEDER)
+  type: national
+  years: 1999–2001
+  role: Principal investigator
+- title: Development of WLAN Networks for Communication Systems
+  grant: 1FD97-1066-C02-01
+  funder: Spanish Government (CICYT) and European Union (FEDER)
+  type: national
+  years: 1999–2001
+  role: Team member
+  note: 'PI: Antonio Tazón'
+- title: Development of a Modem for Low-Voltage Power Lines
+  funder: IKUSI
+  type: industry
+  years: '2000'
+  role: Team member
+  note: 'PI: Carlos Pantaleón'
+- title: Cellular Access Broadband Services and Interactive Television
+  acronym: CABSINET
+  funder: SETELSA (Sistemas Electrónicos y Telecomunicación, S.A.)
+  type: industry
+  years: 1997–2000
+  role: Team member
+  note: 'PI: Jose Luis García'
+- title: Nature-Based Algorithms Applied to Prediction, Decision and Communications
+  grant: TIC96-1074-C02-01
+  funder: Spanish Government (CICYT)
+  type: national
+  years: 1997–1999
+  role: Team member
+  note: 'PI: Carlos Pantaleón'
+- title: Application of Nature-Based Algorithms to Prediction, Decision and Communications
+  funder: Vodafone Foundation
+  type: industry
+  years: 1996–1997
+  role: Principal investigator
+- title: Retrasdig-TVD
+  funder: IKUSI
+  type: industry
+  years: 1995–1997
+  role: Team member
+  note: 'PI: Jose Luis García'
+- title: Digital Transparent Transmodulator
+  funder: IKUSI
+  type: industry
+  years: 1995–1997
+  role: Team member
+  note: 'PI: Jose Luis García'
+- title: Development of a DSP-Based Signal Acquisition and Processing Unit
+  funder: SETELSA (Sistemas Electrónicos y Telecomunicación, S.A.)
+  type: industry
+  years: 1995–1997
+  role: Team member
+  note: 'PI: Carlos Pantaleón'

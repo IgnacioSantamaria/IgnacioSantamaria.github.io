@@ -1,0 +1,13 @@
+# Order of the sections on the Publications page.
+- key: books
+  title: Books
+  prefix: B
+- key: journals
+  title: Journal articles
+  prefix: J
+- key: conferences
+  title: Conference papers
+  prefix: C
+- key: chapters
+  title: Book chapters
+  prefix: BC

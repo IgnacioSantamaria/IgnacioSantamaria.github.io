@@ -1,0 +1,1014 @@
+# Conference papers (source: CV_Santamaria_Oct26.tex). Newest first; add new entries at the top. Optional fields: doi, pdf, award.
+- authors: D. Pérez-Adán, D. Pereira-Ruisánchez, Ó. Fresnedo, I. Santamaria, L. Castedo and J. S. Thompson
+  title: Curriculum Self-Supervised Learning for BD-RIS Optimization in Multi-User MIMO Systems
+  venue: 15th International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP), Edinburgh, United Kingdom, 2026, pp. 1–6
+  year: 2026
+  doi: 10.1109/CSNDSP68462.2026.11654391
+- authors: D. Pérez-Adán, D. Pereira-Ruisánchez, Ó. Fresnedo, I. Santamaria, L. Castedo and J. S. Thompson
+  title: Self-Supervised Deep Learning Design for MU-SIMO Beyond-Diagonal RIS
+  venue: IEEE International Conference on Communications (ICC), Glasgow, United Kingdom, 2026, pp. 1–6
+  year: 2026
+  doi: 10.1109/ICC59461.2026.11587048
+- authors: I. Santamaria, M. Soleymani, E. Jorswieck, J. Gutiérrez and C. Beltrán
+  title: Riemannian Optimization on the Manifold of Unitary and Symmetric Matrices with Application to BD-RIS-Assisted Systems
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 531–535
+  year: 2026
+  doi: 10.1109/ICASSP55912.2026.11460513
+- authors: E. Jorswieck, X. Ding and I. Santamaria
+  title: On Optimal Movable Antennas in Integrated Sensing and Communications
+  venue: 28th International Workshop on Smart Antennas (WSA), Erlangen, Germany, 2025, pp. 1–6
+  year: 2025
+  doi: 10.1109/WSA65299.2025.11202780
+- authors: M. Soleymani, I. Santamaria, E. Jorswieck, R. Schober and L. Hanzo
+  title: STAR-RIS-Aided RSMA for the URLLC Multi-User MIMO Downlink
+  venue: 28th International Workshop on Smart Antennas (WSA), Erlangen, Germany, 2025, pp. 85–90
+  year: 2025
+  doi: 10.1109/WSA65299.2025.11202796
+- authors: M. Soleymani, I. Santamaria, E. Jorswieck, R. Schober and L. Hanzo
+  title: Energy Efficiency Optimization of Finite Block Length STAR-RIS-Aided MU-MIMO Broadcast Channels
+  venue: IEEE 26th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), Surrey, United Kingdom, 2025, pp. 1–5
+  year: 2025
+  doi: 10.1109/SPAWC66079.2025.11143431
+- authors: N. Mankovich, I. Santamaria, G. Camps-Valls and T. Birdal
+  title: A Flag Decomposition for Hierarchical Datasets
+  venue: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, 2025, pp. 18738–18748
+  year: 2025
+  doi: 10.1109/CVPR52734.2025.01746
+- authors: E. A. Jorswieck, M. Soleymani, I. Santamaria and J. Gutiérrez
+  title: URLLC Networks enabled by STAR-RIS, Rate Splitting, and Multiple Antennas
+  venue: International Conference on Mobile and Miniaturized Terahertz Systems (ICMMTS), Dubai, United Arab Emirates, 2025, pp. 1–5
+  year: 2025
+  doi: 10.1109/ICMMTS62835.2025.10926047
+- authors: D. Ramírez, I. Santamaria and L. L. Scharf
+  title: Passive Localization of a Radiating Gaussian Subspace Signal
+  venue: 59th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2025, pp. 1022–1026
+  year: 2025
+  doi: 10.1109/IEEECONF67917.2025.11443728
+- authors: D. Cuevas, M. Gutiérrez, J. Ibáñez and I. Santamaria
+  title: Low Probability of Detection Communication Using Noncoherent Grassmannian Signaling
+  venue: 59th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2025, pp. 514–518
+  year: 2025
+  doi: 10.1109/IEEECONF67917.2025.11443893
+- authors: D. Ramírez, J. Míguez, I. Santamaria and L. L. Scharf
+  title: A Bayesian-Inspired Approach to Passive Radar Detection
+  venue: 58th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2024, pp. 1486–1490
+  year: 2024
+  doi: 10.1109/IEEECONF60004.2024.10943007
+- authors: D. Ramírez, I. Santamaria and L. L. Scharf
+  title: Passive Detection with a Multi-Rank Beamformer of a Random Signal Common to Two Sensors
+  venue: 58th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2024, pp. 213–217
+  year: 2024
+  doi: 10.1109/IEEECONF60004.2024.10942635
+- authors: M. Soleymani, I. Santamaria, E. Jorswieck, M. Di Renzo and J. Gutiérrez
+  title: Energy Efficiency Comparison of RIS Architectures in MISO Broadcast Channels
+  venue: 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 701–705
+  year: 2024
+  doi: 10.1109/SPAWC60668.2024.10694177
+- authors: I. Santamaria, M. Soleymani, E. Jorswieck and J. Gutiérrez
+  title: MIMO Capacity Maximization with Beyond-Diagonal RIS
+  venue: 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 936–940
+  year: 2024
+  doi: 10.1109/SPAWC60668.2024.10694491
+- authors: D. Cuevas, C. Beltrán, M. Gutiérrez, I. Santamaria and V. Tuček
+  title: Structured Multi-Antenna Grassmannian Constellations for Noncoherent Communications
+  venue: IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM), Corvallis, OR, USA, 2024, pp. 1–5
+  year: 2024
+  doi: 10.1109/SAM60225.2024.10636457
+- authors: D. Cuevas, J. Álvarez-Vizoso, M. Gutiérrez, I. Santamaria, V. Tuček and G. Peters
+  title: Hardware Impairments-Aware Design of noncoherent Grassmannian Constellations
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, 2024, pp. 9086–9090
+  year: 2024
+  doi: 10.1109/ICASSP48485.2024.10447367
+- authors: M. Soleymani, I. Santamaria, A. Sezgin and E. Jorswieck
+  title: Maximization of Minimum Rate in MIMO OFDM RIS-Assisted Broadcast Channels
+  venue: 9th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), Herradura, Costa Rica, 2023, pp. 11–15
+  year: 2023
+  doi: 10.1109/CAMSAP58249.2023.10403459
+- authors: M. Soleymani, I. Santamaria and E. Jorswieck
+  title: NOMA-Based Improper Signaling for MIMO STAR-RIS-Assisted Broadcast Channels with Hardware Impairments
+  venue: IEEE Global Communications Conference (GLOBECOM), Kuala Lumpur, Malaysia, 2023, pp. 673–678
+  year: 2023
+  doi: 10.1109/GLOBECOM54140.2023.10437458
+- authors: G. Stanton, D. Ramírez, I. Santamaria, L. L. Scharf and H. Wang
+  title: Identifiability in Multi-Channel Factor Analysis
+  venue: 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2023, pp. 1344–1349
+  year: 2023
+  doi: 10.1109/IEEECONF59524.2023.10476820
+- authors: I. Santamaria, M. Soleymani, E. Jorswieck and J. Gutiérrez
+  title: Interference Leakage Minimization in RIS-Assisted MIMO Interference Channels
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023
+  year: 2023
+  doi: 10.1109/ICASSP49357.2023.10094656
+- authors: J. Álvarez-Vizoso, D. Cuevas, C. Beltrán, I. Santamaria, V. Tuček and G. Peters
+  title: Noncoherent Multiuser Grassmannian Constellations for the MIMO Multiple Access Channel
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023
+  year: 2023
+  doi: 10.1109/ICASSP49357.2023.10096720
+- authors: D. Ramirez, I. Santamaria and L. L. Scharf
+  title: Passive Detection of Rank-One Gaussian Signals for Known Channel Subspaces and Arbitrary Noise
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023
+  year: 2023
+  doi: 10.1109/ICASSP49357.2023.10094671
+- authors: M. Soleymani, I. Santamaria and E. Jorswieck
+  title: Rate Region of MIMO RIS-assisted Broadcast Channels with Rate Splitting and Improper Signaling
+  venue: 26th International ITG Workshop on Smart Antennas and 13th Conference on Systems, Communications, and Coding, Braunschweig, Germany, 2023
+  year: 2023
+- authors: D. Cuevas, J. Álvarez-Vizoso, C. Beltrán, I. Santamaria, V. Tuček and G. Peters
+  title: A Measure Preserving Mapping for Structured Grassmannian Constellations in SIMO Channels
+  venue: 2022 IEEE Global Communications Conference (GLOBECOM), pp. 2394–2399, Rio de Janeiro, Brazil, 2022
+  year: 2022
+  doi: 10.1109/GLOBECOM48099.2022.10000914
+- authors: J. Álvarez-Vizoso, D. Cuevas, C. Beltrán, I. Santamaria, V. Tuček, and G. Peters
+  title: Coherence-based subspace packings for MIMO noncoherent communications
+  venue: 30th European Signal Processing Conference (EUSIPCO 2022), Belgrade, Serbia, 2022
+  year: 2022
+  doi: 10.23919/EUSIPCO55093.2022.9909658
+- authors: D. Cuevas, C. Beltrán, I. Santamaria, V. Tuček, and G. Peters
+  title: A fast algorithm for designing Grassmannian constellations
+  venue: 25th ITG Workshop on Smart Antennas, EURECOM, French Riviera, France, November, 2021
+  year: 2021
+- authors: D. Cuevas, and I. Santamaria
+  title: Multi-output kernel adaptive filtering with reduced complexity
+  venue: IEEE Statistical Signal Processing Workshop, Virtual-Rio de Janeiro, Brazil, July, 2021
+  year: 2021
+  doi: 10.1109/SSP49050.2021.9513779
+- authors: V. Garg, D. Ramírez, and I. Santamaría
+  title: Sparse subspace averaging for order estimation
+  venue: IEEE Statistical Signal Processing Workshop, Virtual-Rio de Janeiro, Brazil, July, 2021
+  year: 2021
+  doi: 10.1109/SSP49050.2021.9513773
+- authors: M. Soleymani, I. Santamaria, B. Maham, and P. J. Schreier
+  title: Rate Region of the K-user MIMO Interference Channel with Imperfect Transmitters
+  venue: European Signal Processing Conference (EUSIPCO 2020), Amsterdam, The Netherlands, pp. 1638–1642, August, 2020
+  year: 2020
+  doi: 10.23919/Eusipco47968.2020.9287450
+- authors: V. Garg, P. Gimenez-Febrer, A. Pages-Zamora, and I. Santamaria
+  title: Source Enumeration via Toeplitz Matrix Completion
+  venue: Int. Conf. Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, pp. 6004–6008, May, 2020
+  year: 2020
+  doi: 10.1109/ICASSP40776.2020.9054048
+- authors: C. Lameiro, I. Santamaria, and P. J. Schreier
+  title: Benefits of Improper Signaling for Overlay Cognitive Radio
+  venue: IEEE Global Communication Conference (GLOBECOM), Waikoloa, HI, USA, December, 2019
+  year: 2019
+  doi: 10.1109/GLOBECOM38437.2019.9013604
+- authors: V. Elvira, I. Santamaria
+  title: SER Estimation for MIMO Detectors via Importance Sampling Schemes
+  venue: 53rd Asilomar Conference on Signals, Systems and Computers, Pacific Grove (CA), USA, November, 2019
+  year: 2019
+  doi: 10.1109/IEEECONF44664.2019.9048894
+- authors: V. Garg, and I. Santamaría
+  title: Source Enumeration in Non-White Noise and Small Sample Size via Subspace Averaging
+  venue: 27th European Signal Processing Conference (EUSIPCO), September, 2019
+  year: 2019
+  doi: 10.23919/EUSIPCO.2019.8903064
+- authors: M. Soleymani, C. Lameiro, I. Santamaria, and P. J. Schreier
+  title: Energy-Efficient Improper Signaling for K-user Interference Channels
+  venue: 27th European Signal Processing Conference (EUSIPCO), September, 2019
+  year: 2019
+  doi: 10.23919/EUSIPCO.2019.8903023
+- authors: C. Lameiro, I. Santamaría, and P. J. Schreier
+  title: Improper Gaussian Signaling for the Two-user Broadcast Channel Treating Interference as Noise
+  venue: IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May, 2019
+  year: 2019
+  doi: 10.1109/ICASSP.2019.8682994
+- authors: J. Fanjul, and I. Santamaria
+  title: Power Minimization in Multi-tier Networks with Flexible Duplexing
+  venue: IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May, 2019
+  year: 2019
+  doi: 10.1109/ICASSP.2019.8682536
+- authors: M. Soleymani, C. Lameiro, P. J. Schreier, and I. Santamaría
+  title: Energy-Efficient Design for Underlay Cognitive Radio using Improper Signaling
+  venue: IEEE Int. Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May, 2019
+  year: 2019
+  doi: 10.1109/ICASSP.2019.8683029
+- authors: J. Diego Pulgarin-Giraldo, A. Marino Álvarez-Meza, S. Van Vaerenbergh, I. Santamaría, and G. Castellanos
+  title: Analysis and classification of MoCap data by Hilbert space embedding-based distance and multikernel learning
+  venue: The 23rd Iberoamerican Congress on Pattern Recognition, Madrid, Spain, November, 2018
+  year: 2018
+  doi: 10.1007/978-3-030-13469-3_22
+- authors: J. Fanjul, and I. Santamaría
+  title: Flexible Duplexing for Maximum Downlink Rate in Multi-tier MIMO Networks
+  venue: 26th Telecommunications Forum TELFOR, Belgrade, Serbia, November, 2018
+  year: 2018
+  doi: 10.1109/TELFOR.2018.8611813
+- authors: J. Diego Pulgarin-Giraldo, A. Marino Álvarez-Meza, S. Van Vaerenbergh, I. Santamaría, and G. Castellanos
+  title: MoCap multichannel time series representation and relevance analysis by kernel adaptive filtering and multikernel learning oriented to action recognition tasks
+  venue: International Conference on Time Series and Forecasting (ITISE 2018), Granada, Spain, pp. 1316–1327, September, 2018
+  year: 2018
+- authors: D. Ramírez, I. Santamaría, S. Van Vaerenbergh, and L. L. Scharf
+  title: An alternating optimization algorithm for two-channel factor analysis with common and uncommon factors
+  venue: 52nd Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, USA, October, 2018
+  year: 2018
+  doi: 10.1109/ACSSC.2018.8645457
+- authors: I. Santamaría, D. Ramírez, and L. L. Scharf
+  title: Subspace Averaging for Source Enumeration in Large Arrays
+  venue: IEEE Statistical Signal Processing Workshop (SSP), Freiburg, Germany, June, 2018
+  year: 2018
+  doi: 10.1109/SSP.2018.8450837
+- authors: J. Pérez, I. Santamaría, and J. Vía
+  title: Adaptive EM-based Algorithm for Cooperative Spectrum Sensing in Mobile Environments
+  venue: IEEE Statistical Signal Processing Workshop (SSP), Freiburg, Germany, June, 2018
+  year: 2018
+  doi: 10.1109/SSP.2018.8450700
+- authors: M. Soleymani, C. Lameiro, P. J. Schreier, and I. Santamaría
+  title: Improper Signaling for OFDM Underlay Cognitive Radio Systems
+  venue: IEEE Statistical Signal Processing Workshop (SSP), Freiburg, Germany, June, 2018
+  year: 2018
+  doi: 10.1109/SSP.2018.8450843
+- authors: Z. Stamenkovic, S. Randjic, I. Santamaría, D. Markovic, S. Van Vaerenbergh, and U. Pesovici
+  title: Decision Support System for Plan and Crop Treatment and Protection based on Wireless Sensor Networks
+  venue: 41st International Spring Seminar on Electronics Technology (ISSE), Zlatibor, Serbia, May, 2018
+  year: 2018
+  doi: 10.1109/ISSE.2018.8443682
+- authors: S. Van Vaerenbergh, I. Santamaría, V. Elvira, and M. Salvatori
+  title: Pattern Localization in Time Series through Signal-To-Model Alignment in Latent Space
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, IEEE, April, 2018
+  year: 2018
+  doi: 10.1109/ICASSP.2018.8461890
+- authors: J. Pérez, and I. Santamaría
+  title: Adaptive Clustering Algorithm for Cooperative Spectrum Sensing in Mobile Environments
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, IEEE, April, 2018
+  year: 2018
+  doi: 10.1109/ICASSP.2018.8461468
+- authors: D. Ramírez, D. Romero, J. Vía, R. López-Valcarce, and I. Santamaría
+  title: Locally Optimal Invariant Detector for Testing Equality of Two Power Spectral Densities
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, IEEE, April, 2018
+  year: 2018
+  doi: 10.1109/ICASSP.2018.8462683
+- authors: C. Lameiro, I. Santamaría, and P. J. Schreier
+  title: Performance analysis of maximally improper signaling for multiple-antenna systems
+  venue: IEEE Wireless Communications and Networking Conference (WCNC), Barcelona, Spain, April, 2018
+  year: 2018
+  doi: 10.1109/WCNC.2018.8377150
+- authors: J. Fanjul, I. Santamaría, and C. Loucera
+  title: A quaternion-based approach to interference alignment with Alamouti coding
+  venue: IEEE International Symposium on Signal Processing and Information Technology (ISSPIT), Bilbao, Spain, December, 2017
+  year: 2017
+  doi: 10.1109/ISSPIT.2017.8388639
+- authors: J. Fanjul, I. Santamaría, J. Ibáñez, and C. Loucera
+  title: Experimental Evaluation of Non-Coherent MIMO Grassmannian Signaling Schemes
+  venue: 16th International Conference on Ad Hoc Networks and Wireless (AdHoc-Now 2017), Messina, Italy, September, 2017
+  year: 2017
+  doi: 10.1007/978-3-319-67910-5_18
+- authors: I. Santamaría, J. Vía, L. L. Scharf, and Y. Wang
+  title: A GLRT approach for detecting correlated signals in white noise in two MIMO channels
+  venue: 25th European Signal Processing Conference (EUSIPCO 2017), Kos, Greece, August, 2017
+  year: 2017
+  doi: 10.23919/EUSIPCO.2017.8081438
+- authors: I. Santamaría, J. Vía, M. Kirby, T. Marrinan, C. Peterson, and L. L. Scharf
+  title: Constrained subspace estimation via convex optimization
+  venue: 25th European Signal Processing Conference (EUSIPCO 2017), Kos, Greece, August, 2017
+  year: 2017
+  doi: 10.23919/EUSIPCO.2017.8081398
+- authors: S. Van Vaerenbergh, S. Scardapane, and I. Santamaría
+  title: Recursive multikernel filters exploiting nonlinear temporal structure
+  venue: 25th European Signal Processing Conference (EUSIPCO 2017), Kos, Greece, August, 2017
+  year: 2017
+  doi: 10.23919/EUSIPCO.2017.8081696
+- authors: Y. Wang, L. L. Scharf, I. Santamaría, and H. Wang
+  title: Canonical Correlations for Target Detection in a Passive Radar Network
+  venue: Asilomar Conference on Signals, Systems and Computers (ASILOMAR), Pacific Grove (CA), USA, IEEE, November, 2016
+  year: 2016
+  doi: 10.1109/ACSSC.2016.7869553
+- authors: Z. Stamenkovic, S. Randjic, I. Santamaría, U. Pesovic, G. Panic, and S. Tanaskovic
+  title: Advanced Wireless Sensor Nodes and Networks for Agricultural Applications
+  venue: 24th Telecommunications Forum, (TELFOR 2016), Belgrade, Serbia, IEEE, November, 2016
+  year: 2016
+  doi: 10.1109/TELFOR.2016.7818709
+- authors: I. Santamaría, L. L. Scharf, D. Cochran, and J. Vía
+  title: Passive Detection of Rank-One Signals with a Multiantenna Reference Channel
+  venue: 24th European Signal Processing Conference (EUSIPCO 2016), Budapest, Hungary, pp. 140–144, September, 2016
+  year: 2016
+  doi: 10.1109/EUSIPCO.2016.7760226
+- authors: J. Fanjul, and I. Santamaría
+  title: On the Spatial Degrees of Freedom Benefits of Reverse TDD in Multicell MIMO Networks
+  venue: 24th European Signal Processing Conference (EUSIPCO 2016), Budapest, Hungary, pp. 1363–1367, September, 2016
+  year: 2016
+  doi: 10.1109/EUSIPCO.2016.7760471
+- authors: Z. Yavo, J. Francos, I. Santamaría, and L. L. Scharf
+  title: Estimating the mean manifold of a deformable object from noisy observations
+  venue: IEEE Image Video and Multidimensional Signal Processing Workshop (IVMSP), Bordeaux,France, IEEE, July, 2016
+  year: 2016
+  doi: 10.1109/IVMSPW.2016.7528220
+- authors: I. Santamaría, and J. Fanjul
+  title: Statistical Analysis of Single-Beam Interference Alignment Schemes
+  venue: IEEE Workshop on Signal Processing Advances on Wireless Communications (SPAWC), Edinburgh, UK, July, 2016
+  year: 2016
+  doi: 10.1109/SPAWC.2016.7536800
+- authors: I. Santamaría, L. L. Scharf, C. Peterson, M. Kirby, and J. Francos
+  title: An order fitting rule for optimal subspace averaging
+  venue: IEEE Workshop on Statistical Signal Processing (SSP), Palma de Mallorca, June, 2016
+  year: 2016
+  doi: 10.1109/SSP.2016.7551843
+- authors: J. Vía, and I. Santamaría
+  title: 'Balanced least squares: estimation in linear systems with noisy inputs and multiple outputs'
+  venue: IEEE Workshop on Statistical Signal Processing (SSP), Palma de Mallorca, June, 2016
+  year: 2016
+  doi: 10.1109/SSP.2016.7551772
+- authors: C. Lameiro, I. Santamaría, W. Utschick, and P. J. Schreier
+  title: Maximally Improper Interference in Underlay Cognitive Radio Networks
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Proc. (ICASSP 2016), Shanghai, China, March, 2016
+  year: 2016
+  doi: 10.1109/ICASSP.2016.7472361
+- authors: J. Vía and I. Santamaría
+  title: 'Balanced Least Squares: Linear Model Estimation with Noisy Inputs'
+  venue: IEEE workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2015), Cancún, Mexico, December, 2015
+  year: 2015
+  doi: 10.1109/CAMSAP.2015.7383721
+- authors: J. Fanjul, C. Lameiro, I. Santamaría, J. A. García-Naya and L. Castedo
+  title: An Experimental Evaluation of Broadband Spatial IA for Uncoordinated MIMO-OFDM Systems
+  venue: IEEE International Conference on Digital Signal Processing (DSP 2015), Singapore, July, 2015
+  year: 2015
+  doi: 10.1109/ICDSP.2015.7251938
+- authors: C. Lameiro, I. Santamaría and P. J. Schreier
+  title: Analysis of Maximally Improper Signalling Schemes for Underlay Cognitive Radio
+  venue: IEEE Int. Conf. on Communications (ICC 2015), London, UK, June, 2015
+  year: 2015
+  doi: 10.1109/ICC.2015.7248519
+- authors: D. Ramírez, P. J. Schreier, J. Vía, I. Santamaría and L. L. Scharf
+  title: An Asymptotic LMPI Test for Cyclostationarity Detection with Application to Cognitive Radio
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Proc. (ICASSP 2015), Brisbane, Australia, April, 2015
+  year: 2015
+  doi: 10.1109/ICASSP.2015.7179057
+- authors: C. Lameiro, W. Utschick and I. Santamaría
+  title: Interference-Temperature Limit for Cognitive Radio Networks with MIMO Primary Users
+  venue: Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, USA, November, 2014
+  year: 2014
+  doi: 10.1109/ACSSC.2014.7094625
+- authors: D. Ramírez, P. J. Schreier, J. Vía, I. Santamaría and L. L. Scharf
+  title: A Regularized Maximum Likelihood Estimator for the Period of a Cyclostationary Process
+  venue: Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, USA, November, 2014
+  year: 2014
+  doi: 10.1109/ACSSC.2014.7094815
+- authors: J. Manco-Vásquez, S. Van Vaerenbergh, J. Vía and I. Santamaría
+  title: Experimental Evaluation of a Cooperative Kernel-Based Approach for Robust Spectrum Sensing
+  venue: 8th IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM 2014), A Coruña, Spain, June, 2014
+  year: 2014
+  doi: 10.1109/SAM.2014.6882413
+- authors: S. Van Vaerenbergh, Ó. González, J. Vía, I. Santamaría
+  title: Physical Layer Authentication based on Channel Response Tracking using Gaussian Processes
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Proc. (ICASSP 2014), Florence, Italy, May, 2014
+  year: 2014
+  doi: 10.1109/ICASSP.2014.6854032
+- authors: Ó. González, J. Fanjul, I. Santamaría
+  title: Homotopy Continuation for Vector Space Interference Alignment in MIMO X Networks
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Proc. (ICASSP 2014), Florence, Italy, May, 2014
+  year: 2014
+  doi: 10.1109/ICASSP.2014.6854794
+- authors: D. Ramírez, L. L. Scharf, J. Vía, I. Santamaría and P. J. Schreier
+  title: An Asymptotic GLRT for the Detection of Cyclostationary Signals
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Proc. (ICASSP 2014), Florence, Italy, May, 2014
+  year: 2014
+  doi: 10.1109/ICASSP.2014.6854234
+- authors: C. Lameiro, I. Santamaría and W. Utschick
+  title: Interference Shaping Constraints for Underlay MIMO Interference Channels
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Proc. (ICASSP 2014), Florence, Italy, May, 2014
+  year: 2014
+  doi: 10.1109/ICASSP.2014.6855020
+- authors: C. Lameiro, W. Utschick, and I. Santamaría
+  title: Spatial Shaping and Precoding Design for Underlay MIMO Interference Channels
+  venue: 18th International ITG Workshop on Smart Antennas (WSA 2013), Erlangen, Germany, March, 2014
+  year: 2014
+- authors: S. Van Vaerenbergh, and I. Santamaría
+  title: A Comparative Study of Kernel Adaptive Filtering Algorithms
+  venue: 2013 IEEE Digital Signal Processing Workshop, Napa, CA, USA, August 2013
+  year: 2013
+  doi: 10.1109/DSP-SPE.2013.6642587
+- authors: S. Van Vaerenbergh, and I. Santamaría
+  title: 'Kernel Adaptive Filtering: Which Technique to Choose in Practice'
+  venue: 'International Workshop on Advances in Regularization, Optimization, Kernel Methods and Support Vector Machines: Theory and Applications (ROKS 2013), Leuven, Belgium, pp. 101–102, July 2013'
+  year: 2013
+- authors: Ó. González, I. Santamaría, and C. Beltrán
+  title: Finding the Number of Feasible Solutions for Linear Interference Alignment Problems
+  venue: 2013 IEEE International Symposium on Information Theory, Istanbul, Turkey, pp. 384–388, July 2013
+  year: 2013
+  doi: 10.1109/ISIT.2013.6620253
+- authors: C. Lameiro, and I. Santamaría
+  title: Degrees-of-Freedom for the 4-User SISO Interference Channel with Improper Signaling
+  venue: IEEE International Conference on Communications (ICC), Budapest, Hungary, June 2013
+  year: 2013
+  doi: 10.1109/ICC.2013.6655009
+- authors: C. Lameiro, Ó. González, and I. Santamaría
+  title: An Interference Alignment Algorithm for Structured Channels
+  venue: IEEE 14th Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2013), Darmstadt, Germany, June 2013
+  year: 2013
+  doi: 10.1109/SPAWC.2013.6612059
+- authors: S. Van Vaerenbergh, J. Vía, J. Manco-Vásquez, and I. Santamaría
+  title: Adaptive Kernel Canonical Correlation Analysis Algorithms for Maximum and Minimum Variance
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2013), Vancouver, Canada, May 2013
+  year: 2013
+  doi: 10.1109/ICASSP.2013.6638326
+- authors: Ó. González, C. Lameiro, J. Vía, C. Beltrán, and I. Santamaría
+  title: Computing the Degrees of Freedom for Arbitrary MIMO Interference Channels
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2013), Vancouver, Canada, May 2013
+  year: 2013
+  doi: 10.1109/ICASSP.2013.6638491
+- authors: J. Manco-Vásquez, J. Gutiérrez, J. Pérez, J. Ibáñez, and I. Santamaría
+  title: Experimental Evaluation of Multiantenna Spectrum Sensing Detectors using a Cognitive Radio Testbed
+  venue: International Symposium on Signals, Systems and Electronics (ISSSE 2012), Potsdam, Germany, October 2012
+  year: 2012
+  doi: 10.1109/ISSSE.2012.6374311
+- authors: D. Ramírez, P. J. Schreier, J. Vía, and I. Santamaría
+  title: GLRT For Testing Separability Of A Complex-Valued Mixture Based On The Strong Uncorrelating Transform
+  venue: 2012 IEEE International Workshop on Machine Learning for Signal Processing, Santander, Spain, September 2012
+  year: 2012
+  doi: 10.1109/MLSP.2012.6349785
+- authors: S. Van Vaerenbergh, I. Santamaría, and M. Lázaro-Gredilla
+  title: Estimation of the Forgetting Factor in Kernel Recursive Least Squares
+  venue: 2012 IEEE International Workshop on Machine Learning For Signal Processing (MLSP), September 2012
+  year: 2012
+  doi: 10.1109/MLSP.2012.6349749
+- authors: D. Romero, J. Vía, R. López-Valcarce, and I. Santamaría
+  title: Detection of Gaussian Signal in Unknown Time-Varying Channels
+  venue: IEEE Statistical Signal Processing Workshop (SSP 2012), Ann Arbor, USA, August 2012
+  year: 2012
+  doi: 10.1109/SSP.2012.6319858
+- authors: C. Lameiro, Ó. González, J. Vía, I. Santamaría, and R. W. Heath Jr.
+  title: Pre- and Post-FFT Interference Leakage Minimization for MIMO OFDM Networks
+  venue: The Ninth International Symposium on Wireless Communication Systems (ISWCS 2012), Paris, France, August 2012
+  year: 2012
+  doi: 10.1109/ISWCS.2012.6328429
+- authors: D. Ramírez, J. Iscar, J. Vía, I. Santamaría, and L. L. Scharf
+  title: The Locally Most Powerful Invariant Test for Detecting a Rank-P Gaussian Signal in White Noise
+  venue: 7th IEEE Sensor Array and Multichannel Signal Processing Workshop, Hoboken, NJ, USA, June 2012
+  year: 2012
+  doi: 10.1109/SAM.2012.6250547
+- authors: J. Manco-Vásquez, M. Lázaro-Gredilla, D. Ramírez, J. Vía, and I. Santamaría
+  title: Bayesian Multiantenna Sensing for Cognitive Radio
+  venue: 7th IEEE Sensor Array and Multichannel Signal Processing Workshop, Hoboken, NJ, USA, June 2012
+  year: 2012
+  doi: 10.1109/SAM.2012.6250566
+- authors: C. Lameiro, J. Vía, and I. Santamaría
+  title: A Distributed Algorithm for Two-Way Multiple-Relay Networks
+  venue: IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM 2012), Hoboken, NJ, USA, June 2012
+  year: 2012
+  doi: 10.1109/SAM.2012.6250440
+- authors: Ó. González, C. Lameiro, J. Vía, I. Santamaría, and R. W. Heath Jr.
+  title: Interference Leakage Minimization for Convolutive MIMO Interference Channels
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012), Kyoto, Japan, March 2012
+  year: 2012
+  doi: 10.1109/ICASSP.2012.6288506
+- authors: D. Ramírez, J. Vía, and I. Santamaría
+  title: The Locally Most Powerful Test For Multiantenna Spectrum Sensing With Uncalibrated Receivers
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012), Kyoto, Japan, March 2012
+  year: 2012
+  doi: 10.1109/ICASSP.2012.6288655
+- authors: Ó. González, I. Santamaría, and C. Beltrán
+  title: A general test to check the feasibility of linear interference alignment
+  venue: IEEE International Symposium on Information Theory (ISIT 2012), Cambridge, MA, USA, July 2012
+  year: 2012
+  doi: 10.1109/ISIT.2012.6283962
+- authors: G. Vazquez-Vilar, D. Ramírez, R. López-Valcarce, J. Vía, and I. Santamaría
+  title: Spatial rank estimation in Cognitive Radio Networks with uncalibrated multiple antennas
+  venue: 4th International Conference on Cognitive Radio and Advanced Spectrum Management, Barcelona, Spain, October 2011
+  year: 2011
+  doi: 10.1145/2093256.2093291
+- authors: M. Lázaro-Gredilla, S. Van Vaerenbergh, and I. Santamaría
+  title: A Bayesian Approach To Tracking With Kernel Recursive Least-Squares
+  venue: IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2011), Beijing, China, September 2011
+  year: 2011
+  doi: 10.1109/MLSP.2011.6064585
+- authors: J. A. García-Naya, L. Castedo, Ó. González, D. Ramírez, and I. Santamaría
+  title: Experimental Evaluation of Interference Alignment Under Imperfect Channel State Information
+  venue: 19th European Signal Processing Conference (EUSIPCO 2011), Barcelona, Spain, August 2011
+  year: 2011
+- authors: D. Ramírez, J. Vía, I. Santamaría, and L. L. Scharf
+  title: Multi-Sensor Beamsteering Based on the Asymptotic Likelihood for Colored Signals
+  venue: IEEE Workshop on Statistical Signal Processing (SSP 2011), Nice, France, June 2011
+  year: 2011
+  doi: 10.1109/SSP.2011.5967644
+- authors: Ó. González, and I. Santamaría
+  title: Interference Alignment in Single-Beam MIMO Networks via Homotopy Continuation
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech Republic, May 2011
+  year: 2011
+  doi: 10.1109/ICASSP.2011.5947101
+- authors: C. Lameiro, A. Nazábal, F. Gholam, J. Vía, and I. Santamaría
+  title: Capacity Region of the Two-Way Multi-Antenna Relay Channel with Analog Tx-Rx Beamforming
+  venue: 3rd International ICST Conference on Mobile Lightweight Wireless Systems (Mobilight 2011), Bilbao, Spain, May 2011
+  year: 2011
+  doi: 10.1007/978-3-642-29479-2_1
+- authors: A. Nazábal, J. Vía, and I. Santamaría
+  title: 'Analog Antenna Combining in Multiuser OFDM Systems: Beamforming Design and Power Allocation'
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech Republic, May 2011
+  year: 2011
+  doi: 10.1109/ICASSP.2011.5947033
+- authors: J. Vía, D. P. Palomar, L. Vielva, and I. Santamaría
+  title: Maximum Likelihood ICA of Quaternion Gaussian Vectors
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech Republic, May 2011
+  year: 2011
+  doi: 10.1109/ICASSP.2011.5947294
+- authors: D. Ramírez, G. Vazquez-Vilar, R. López-Valcarce, J. Vía, and I. Santamaría
+  title: Multiantenna Detection under Noise Uncertainty and Primary Users Spatial Structure
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech Republic, May 2011
+  year: 2011
+  doi: 10.1109/ICASSP.2011.5946275
+- authors: D. Ramírez, J. Vía, I. Santamaría, and L. L. Scharf
+  title: Multiple-Channel Detection of a Gaussian Time Series over Frequency-Flat Channels
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech Republic, May 2011
+  year: 2011
+  doi: 10.1109/ICASSP.2011.5947194
+- authors: S. Van Vaerenbergh, I. Santamaría, and P E. Barbano
+  title: Semi-Supervised Handwritten Digit Recognition Using Very Few Labeled Data
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech Republic, May 2011
+  year: 2011
+  doi: 10.1109/ICASSP.2011.5946749
+- authors: Ó. González, D. Ramírez, I. Santamaría, J. A. García-Naya, and L. Castedo
+  title: Experimental Validation of Interference Alignment Techniques using a Multiuser MIMO Testbed
+  venue: International ITG Workshop on Smart Antennas (WSA 2011), Aachen, Germany, February 2011
+  year: 2011
+  doi: 10.1109/WSA.2011.5741921
+- authors: V. Elvira, J. Ibáñez, I. Santamaría, M. Krstic, K. Tittelbach-Helmrich and Z. Stamenkovic
+  title: Baseband processor for RF-MIMO WLAN
+  venue: 17th IEEE International Conference on Electronics, Circuits, and Systems (ICECS 2010), Athens, Greece, December 2010
+  year: 2010
+  doi: 10.1109/ICECS.2010.5724633
+- authors: I. Santamaría, Ó. González, R. W. Heath and S. W. Peters
+  title: Maximum sum-rate interference alignment algorithms for MIMO channels
+  venue: IEEE Global Communications Conference (GLOBECOM 2010), Miami, FL, USA, December 2010
+  year: 2010
+  doi: 10.1109/GLOCOM.2010.5683919
+- authors: Z. Stamenkovic, K. Tittelbach-Helmrich, M. Krstic, J. Ibáñez, V. Elvira, and I. Santamaría
+  title: MAC and Baseband Hardware Platforms for RF-MIMO WLAN
+  venue: 5th European Conference on Circuits and Systems for Communications, Belgrade, Serbia, November 2010
+  year: 2010
+- authors: J. Vía, L. Vielva, I. Santamaría and D.P. Palomar
+  title: Independent Component Analysis of Quaternion Gaussian Vectors
+  venue: 6th IEEE Sensor Array and Multichannel Signal Processing Workshop, Israel, October 2010
+  year: 2010
+  doi: 10.1109/SAM.2010.5606718
+- authors: D. Ramírez, J. Vía and I. Santamaría
+  title: 'Multiantenna spectrum sensing: The case of wideband rank-one primary signals'
+  venue: 6th IEEE Sensor Array and Multichannel Signal Processing Workshop, Israel, October 2010
+  year: 2010
+  doi: 10.1109/SAM.2010.5606502
+- authors: Ó. González and I. Santamaría
+  title: Maximum Sum-Rate Interference Alignment Schemes for the 3-user Deterministic MIMO Channel
+  venue: 2nd International ICST Conference on Mobile Networks and Management (MONAMI 2010), Santander, Spain, September 2010
+  year: 2010
+  doi: 10.1007/978-3-642-21444-8_21
+- authors: I. Santamaría, J. Vía, A. Nazábal and C. Lameiro
+  title: Capacity region of the multiantenna Gaussian broadcast channel with analog TX-RX beamforming
+  venue: 5th International ICST Conference on Communications and Networking in China (CHINACOM), Beijing, China, August 2010
+  year: 2010
+  doi: 10.4108/chinacom.2010.127
+- authors: J. Vía, D. Ramírez, I. Santamaría and L. Vielva
+  title: Improperness Measures for Quaternion Random Vectors
+  venue: IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2010), Kittilä, Finland, August 2010
+  year: 2010
+  doi: 10.1109/MLSP.2010.5589225
+- authors: A. Gonzalo, I. Santamaría, J. Vía, F. Gholam and R. Eickhoff
+  title: Equal Gain MIMO beamforming in the RF domain for OFDM-WLAN systems
+  venue: 2nd International ICST Conference on Mobile Lightweight Wireless Systems (Mobilight 2010), Barcelona, Spain, May 2010
+  year: 2010
+  doi: 10.1007/978-3-642-16644-0_13
+- authors: F. Gholam, J. Vía, A. Nazábal and I. Santamaría
+  title: Equal-Phase beamforming architecture for RF-MIMO antenna systems
+  venue: 2nd International ICST Conference on Mobile Lightweight Wireless Systems (Mobilight 2010), Barcelona, Spain, May 2010
+  year: 2010
+  doi: 10.1007/978-3-642-16644-0_16
+- authors: J. Vía, I. Santamaría, V. Elvira and R. Eickhoff
+  title: A general Pre-FFT criterion for MIMO-OFDM beamforming
+  venue: IEEE International Conference on Communications (ICC 2010), Cape Town, South Africa, May 2010
+  year: 2010
+  doi: 10.1109/ICC.2010.5502040
+- authors: L. Vielva, J. Vía, J. Gutiérrez, Ó. González, J. Ibáñez and I. Santamaría
+  title: Building a Web Platform for Learning Advanced Digital Communications using a MIMO Testbed
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2010), Dallas, USA, March 2010
+  year: 2010
+  doi: 10.1109/ICASSP.2010.5496148
+- authors: D. Ramírez, J. Vía, I. Santamaría, R. López-Valcarce and L. L. Scharf
+  title: 'Multiantenna Spectrum Sensing: Detection of Spatial Correlation Among Time-Series With Unknown Spectra'
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2010), Dallas, USA, March 2010
+  year: 2010
+  doi: 10.1109/ICASSP.2010.5496151
+- authors: J. Vía, D. Ramírez, I. Santamaría and L. Vielva
+  title: Widely and semi-widely linear processing of quaternion vectors
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2010), Dallas, USA, March 2010
+  year: 2010
+  doi: 10.1109/ICASSP.2010.5495787
+- authors: S. Van Vaerenbergh, I. Santamaria, W. Liu and J. C. Principe
+  title: Fixed-Budget Kernel Recursive Least-Squares
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2010), Dallas, USA, March 2010
+  year: 2010
+  doi: 10.1109/ICASSP.2010.5495350
+- authors: S. Van Vaerenbergh, I. Santamaría, P.E. Barbano, U. Ozertem and D. Erdogmus
+  title: Path-Based Spectral Clustering for Decoding Fast Time-Varying MIMO Channels
+  venue: 2009 International Workshop on Machine Learning for Signal Processing (MLSP), Grenoble, France, September 2009
+  year: 2009
+  doi: 10.1109/MLSP.2009.5306236
+- authors: D. Ramírez, J. Vía and I. Santamaría
+  title: Coherent Fusion of Information for Optimal Detection in Sensor Networks
+  venue: IEEE Workshop on Statistical Signal Processing (SSP 09), Cardiff, UK, September 2009
+  year: 2009
+  doi: 10.1109/SSP.2009.5278473
+- authors: D. Ramírez, J. Vía, I. Santamaría and P. Crespo
+  title: Entropy and Kullback-Leibler divergence estimation based on Szegő’s Theorem
+  venue: 17th European Signal Processing Conference (EUSIPCO 2009), Glasgow, Scotland, August 2009
+  year: 2009
+- authors: J. Vía, V. Elvira, J. Ibáñez and I. Santamaría
+  title: Optimal Precoding for a Novel RF-MIMO Scheme in Transmit Correlated Rayleigh Channels
+  venue: 10th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2009), Perugia, Italy, June 2009
+  year: 2009
+  doi: 10.1109/SPAWC.2009.5161802
+- authors: O. Gago, L. Gonzalez, R. Eickhoff and I. Santamaría
+  title: 'MIFA: Modified IFA Radiating Element for Small Handheld Devices'
+  venue: ICT-MobileSummit 2009, Santander, Spain, June 2009
+  year: 2009
+- authors: R. Eickhoff, U. Mayer, F. Ellinger, I. Santamaría and L. Gonzalez
+  title: Performance Evaluation of Wireless MIMO Radios
+  venue: ICT-MobileSummit 2009, Santander, Spain, June 2009
+  year: 2009
+- authors: F. Gholam, J. Vía, I. Santamaría, M. Wickert and R. Eickhoff
+  title: Simplified Architectures for Analogue Antenna Combining
+  venue: ICT-MobileSummit 2009, Santander, Spain, June 2009
+  year: 2009
+- authors: M. Wickert, U. Mayer, R. Eickhoff, F. Ellinger, J. Ibáñez and I. Santamaría
+  title: Simulation Framework for Performance Evaluation of RF Antenna Combining Systems
+  venue: ICT-MobileSummit 2009, Santander, Spain, June 2009
+  year: 2009
+- authors: J. Vía, V. Elvira, I. Santamaría and R. Eickhoff
+  title: Analog Antenna Combining for Maximum Capacity under OFDM Transmissions
+  venue: IEEE International Conference on Communications (ICC 2009), Dresden, Germany, June 2009
+  year: 2009
+  doi: 10.1109/ICC.2009.5198742
+- authors: J. Vía, V. Elvira, I. Santamaría and R. Eickhoff
+  title: Minimum BER beamforming in the RF domain for OFDM transmissions and linear receivers
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP 2009), Taipei, Taiwan, April 2009
+  year: 2009
+  doi: 10.1109/ICASSP.2009.4960133
+- authors: S. Van Vaerenbergh, J. Vía and I. Santamaría
+  title: A kernel canonical correlation analysis algorithm for blind equalization of oversampled Wiener systems
+  venue: IEEE International Workshop on Machine Learning for Signal Processing, Cancun, Mexico, October 2008
+  year: 2008
+  doi: 10.1109/MLSP.2008.4685449
+- authors: J. Vía, I. Santamaría and J. Pérez
+  title: A Subspace Approach for Blind Estimation of Time-Varying Channels Under STBC Transmissions
+  venue: 16th European Signal Processing Conference (EUSIPCO 2008), Lausanne, Switzerland, August 2008
+  year: 2008
+- authors: J. Vía and I. Santamaría
+  title: 'Correlation and Kullback Matching Approaches: Application to Blind Channel Estimation in OSTBC Systems'
+  venue: 16th European Signal Processing Conference (EUSIPCO 2008), Lausanne, Switzerland, August 2008
+  year: 2008
+- authors: I. Santamaría, V. Elvira, J. Vía, D. Ramírez, J. Pérez, J. Ibáñez, R. Eickhoff and F. Ellinger
+  title: Optimal MIMO transmission schemes with adaptive antenna combining in the RF path
+  venue: 16th European Signal Processing Conference (EUSIPCO 2008), Lausanne, Switzerland, August 2008
+  year: 2008
+- authors: J. Vía, I. Santamaría and J. Pérez
+  title: A New Subspace Algorithm for Blind Channel Estimation in Broadband Space-Time Block Coded Communication Systems
+  venue: Fifth IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM 2008), Darmstadt, Germany, July 2008
+  year: 2008
+  doi: 10.1109/SAM.2008.4606840
+- authors: M. Arroyo, J. Vía and I. Santamaría
+  title: Deterministic MIMO Channel Order Estimation Based On Canonical Correlation Analysis
+  venue: Fifth IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM 2008), Darmstadt, Germany, July 2008
+  year: 2008
+  doi: 10.1109/SAM.2008.4606815
+- authors: R. Eickhoff, F. Ellinger, U. Mayer, M. Wickert, I. Santamaría, R. Kraemer, L. González, P. Sperandio and T. Theodosiou
+  title: MIMAX-Exploiting the maximum performance and minimum system costs of wireless MIMO systems
+  venue: 17th ICT Mobile and Wireless Summit, Stockholm, Sweden, June 2008
+  year: 2008
+- authors: D. Ramírez, J. Vía and I. Santamaría
+  title: Multiple-Channel Signal Detection using the Generalized Coherence spectrum
+  venue: 1st IAPR Workshop on Cognitive Information Processing (CIP 2008), Santorini, Greece, June 2008
+  year: 2008
+- authors: D. Ramírez, J. Vía and I. Santamaría
+  title: 'A generalization of the magnitude squared coherence spectrum for more than two signals: definition, properties and estimation'
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2008), Las Vegas, USA, April 2008
+  year: 2008
+  doi: 10.1109/ICASSP.2008.4518473
+- authors: S. Van Vaerenbergh, E. Estébanez, I. Santamaría
+  title: A spectral clustering algorithm for decoding fast time-varying BPSK MIMO
+  venue: 15th European Signal Processing Conference (EUSIPCO 2007), pp. 479–483, Poznan, Poland, September 2007
+  year: 2007
+  award: Best Student Paper Award
+- authors: J.Vía, I. Santamaría, A. Sezgin, A. J. Paulraj
+  title: SOS-based blind channel estimation in multiuser space-time block coded systems
+  venue: 15th European Signal Processing Conference (EUSIPCO 2007), pp. 901–905, Poznan, Poland, September 2007
+  year: 2007
+- authors: J. A. García-Naya, T. M. Fernández-Caramés, H. Pérez-Iglesias, M. González López, L. Castedo, D. Ramírez, I. Santamaría, J. Pérez, J. Vía and J. M. Torres-Royo
+  title: Performance of STBC transmissions with real data
+  venue: 16th IST Mobile & Wireless Communications Summit, Budapest, July 2007
+  year: 2007
+- authors: J. Vía, I. Santamaría, A. Sezgin, A. J. Paulraj
+  title: SOS-Based blind channel estimation under space-time block coded transmissions
+  venue: IEEE Workshop on Signal Processing Advances in Wireless Communications, (SPAWC 2007), Helsinki, Finland, June 2007
+  year: 2007
+  doi: 10.1109/SPAWC.2007.4401280
+- authors: J. Pérez, J. Ibáñez, I. Santamaría
+  title: Exact closed-form expressions for the sum capacity and individual users' rates in broadcast ergodic Rayleigh fading channels
+  venue: IEEE Workshop on Signal Processing Advances in Wireless Communications, (SPAWC 2007), Helsinki, Finland, June 2007
+  year: 2007
+  doi: 10.1109/SPAWC.2007.4401348
+- authors: I. Santamaría, J. Vía
+  title: Estimation of the magnitude squared coherence spectrum based on reduced-rank canonical coordinates
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing, (ICASSP 2007), Honolulu, Hawai, USA, April 2007
+  year: 2007
+  doi: 10.1109/ICASSP.2007.366847
+- authors: J. Vía, I. Santamaría
+  title: Some results on the blind identifiability of orthogonal space-time block codes from second-order statistics
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing, (ICASSP 2007), Honolulu, Hawai, USA, April 2007
+  year: 2007
+  doi: 10.1109/ICASSP.2007.366535
+- authors: J. Vía, I. Santamaría, J. Pérez
+  title: Blind identification of MIMO-OSTBC channels combining second and higher-order statistics
+  venue: 14th European Signal Processing Conference, (EUSIPCO 2006), Florence, Italy, September 2006
+  year: 2006
+- authors: J. Pérez, I. Santamaría, J. Ibáñez, L. Vielva
+  title: Closed-form approximation for the outage capacity of OFDM-STBC and OFDM-SFBC systems
+  venue: 14th European Signal Processing Conference, (EUSIPCO 2006), Florence, Italy, September 2006
+  year: 2006
+- authors: D. Ramírez, I. Santamaría, J. Pérez, J. Vía, A. Tazón, J. A. García-Naya, T. M. Fernández-Caramés, M. González-López, H. Pérez-Iglesias, L. Castedo
+  title: A flexible testbed for the rapid prototyping of MIMO baseband modules
+  venue: 3rd International Symposium on Wireless Communications, (ISWCS 2006), Valencia, España, September 2006
+  year: 2006
+  doi: 10.1109/ISWCS.2006.4362407
+- authors: J. Pérez, J. Ibáñez, L. Vielva, I. Santamaría
+  title: Analytical approximations for the capacity of orthogonal SFBC
+  venue: 3rd International Symposium on Wireless Communications, (ISWCS 2006), Valencia, España, September 2006
+  year: 2006
+  doi: 10.1109/ISWCS.2006.4362341
+- authors: S. Van Vaerenbergh, J. Vía and I. Santamaría
+  title: Online kernel canonical correlation analysis for supervised equalization of Wiener systems
+  venue: IEEE International Joint Conference on Neural Networks (IJCNN 2006), Vancouver, Canada, July 2006
+  year: 2006
+  doi: 10.1109/IJCNN.2006.246827
+- authors: J. Vía, I. Santamaría, J. Pérez
+  title: A sufficient condition for blind identifiability of MIMO-OSTBC channels based on second order statistics
+  venue: Seventh IEEE Workshop on Signal Processing Advances in Wireless Communications, (SPAWC 2006), Cannes, France, June 2006
+  year: 2006
+  doi: 10.1109/SPAWC.2006.346374
+- authors: J. Vía, I. Santamaría, J. Pérez, D. Ramírez
+  title: Blind decoding of MISO-OSTBC systems based on principal component analysis
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing, (ICASSP 2006), Toulouse, France, May 2006
+  year: 2006
+  doi: 10.1109/ICASSP.2006.1661026
+- authors: S. Van Vaerenbergh, J. Vía and I. Santamaría
+  title: A sliding-window kernel RLS algorithm and its application to nonlinear channel identification
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing, (ICASSP 2006), Toulouse, France, May 2006
+  year: 2006
+  doi: 10.1109/ICASSP.2006.1661394
+- authors: D. Han, J. Principe, L. Yang, I. Santamaría, J. Via
+  title: Robust blind SIMO channel estimation using Adatron
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing, (ICASSP 2006), Toulouse, France, May 2006
+  year: 2006
+  doi: 10.1109/ICASSP.2006.1660921
+- authors: J. Vía, I. Santamaría
+  title: CCA based algorithms for blind equalization of FIR MIMO systems
+  venue: IEEE Workshop on Statistical Signal Processing, (SSP 2005), Bordeaux, France, July 2005
+  year: 2005
+  doi: 10.1109/SSP.2005.1628583
+- authors: J. Vía, I. Santamaría
+  title: Adaptive blind equalization of SIMO systems based on canonical correlation analysis
+  venue: Sixth IEEE Workshop on Signal Processing Advances in Wireless Communications, (SPAWC 2005), New York, USA, June 2005
+  year: 2005
+  doi: 10.1109/SPAWC.2005.1506039
+- authors: D. Han, J. C. Principe, L. Yang, I. Santamaría, J. Vía
+  title: Structural risk minimization for robust blind identification of sparse SIMO channels
+  venue: Sixth IEEE Workshop on Signal Processing Advances in Wireless Communications, (SPAWC 2005), New York, USA, June 2005
+  year: 2005
+  doi: 10.1109/SPAWC.2005.1506251
+- authors: D. Luengo, I. Santamaría and L. Vielva
+  title: Asymptotically optimal maximum-likelihood estimator of a class of chaotic signals using the Viterbi algorithm
+  venue: 13th European Signal Processing Conference (EUSIPCO 2005), Antalya, Turkey, September 2005
+  year: 2005
+- authors: J. Via, I. Santamaría and J. Pérez
+  title: 'Canonical correlation analysis (CCA) algorithms for multiple data sets: application to blind SIMO equalization'
+  venue: 13th European Signal Processing Conference (EUSIPCO 2005), Antalya, Turkey, September 2005
+  year: 2005
+- authors: U. Ozertem, D. Erdogmus and I. Santamaría
+  title: Detection of nonlinearly distorted signals using mutual information
+  venue: 13th European Signal Processing Conference (EUSIPCO 2005), Antalya, Turkey, September 2005
+  year: 2005
+- authors: I. Santamaría, D. Erdogmus, R. Agrawal and J. C. Principe
+  title: Robust matched filtering in the feature space
+  venue: 13th European Signal Processing Conference (EUSIPCO 2005), Antalya, Turkey, September 2005
+  year: 2005
+- authors: J. Pérez, J. Ibáñez, L. Vielva and I. Santamaría
+  title: Approximate closed-form expression for the ergodic capacity of MISO and SIMO systems
+  venue: IEEE Vehicular Technology Conference, Spring (VTC 2005), Stockholm, Sweden, May 2005
+  year: 2005
+  doi: 10.1109/VETECS.2005.1543438
+- authors: D. Luengo and I. Santamaría
+  title: Secure communications using OFDM with chaotic modulation in the subcarriers
+  venue: IEEE Vehicular Technology Conference, Spring (VTC 2005), Stockholm, Sweden, May 2005
+  year: 2005
+  doi: 10.1109/VETECS.2005.1543461
+- authors: J. Vía, I. Santamaría and J. Pérez
+  title: A robust RLS algorithm for adaptive canonical correlation analysis
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2005), Philadelphia, USA, March 2005
+  year: 2005
+  doi: 10.1109/ICASSP.2005.1416021
+- authors: M. Lázaro, I. Santamaría, J. Vía and D. Erdogmus
+  title: Blind equalization of multilevel signals using support vector machines
+  venue: 12th European Signal Processing Conference (EUSIPCO 2004), Vienna, Austria, September 2004
+  year: 2004
+- authors: J. Vía, I. Santamaría and M. Lázaro
+  title: Blind restoration of binary signals using a line spectrum fitting approach
+  venue: 12th European Signal Processing Conference (EUSIPCO 2004), Vienna, Austria, September 2004
+  year: 2004
+- authors: J. Pérez, J. Ibáñez, L. Vielva and I. Santamaría
+  title: Capacity estimation of polarization-diversity MIMO systems in urban microcellular environments
+  venue: 15th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2004), Barcelona, Spain, September 2004
+  year: 2004
+  doi: 10.1109/PIMRC.2004.1368816
+- authors: L. Vielva, I. Santamaría, J. Ibáñez, D. Erdogmus and J. C. Principe
+  title: On the estimation of the mixing matrix for underdetermined blind source separation in an arbitrary number of dimensions
+  venue: 5th International Conference on Independent Component Analysis and Blind Signal Separation (ICA 2004), Granada, Spain, September 2004
+  year: 2004
+- authors: J. Pérez, J. Ibáñez, L. Vielva and I. Santamaría
+  title: Performance of MIMO systems based on dual polarized antennas in urban microcellular environments
+  venue: IEEE Vehicular Technology Conference, Fall (VTC 2004), Los Angeles, CA, USA, September 2004
+  year: 2004
+  doi: 10.1109/VETECF.2004.1400254
+- authors: C. C. Gaudes, J. Vía and I. Santamaría
+  title: Robust array beamforming with sidelobe control using support vector machines
+  venue: Fifth IEEE Workshop on Signal Processing Advances in Wireless Communications, (SPAWC 2004), Lisbon, Portugal, July 2004
+  year: 2004
+  doi: 10.1109/SPAWC.2004.1439244
+- authors: I. Santamaría, J. Vía and J. Merino
+  title: SVM-based blind beamforming of constant modulus signals
+  venue: International Joint Conference on Neural Networks (IJCNN 2004), Budapest, Hungary, July 2004
+  year: 2004
+  doi: 10.1109/IJCNN.2004.1380927
+- authors: C. C. Gaudes, J. Vía and I. Santamaría
+  title: An IRWLS procedure for robust beamforming with sidelobe control
+  venue: Third IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM 2004), Barcelona, Spain, July 2004
+  year: 2004
+  doi: 10.1109/SAM.2004.1502966
+- authors: J. Ibáñez, I. Santamaría, C. Pantaleón and L. Vielva
+  title: Parametric smoothing of spline interpolation
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2004), Montreal, Canada, May 2004
+  year: 2004
+  doi: 10.1109/ICASSP.2004.1326328
+- authors: I. Santamaría, J. Vía and C. C. Gaudes
+  title: 'Robust identification of SIMO channels: A support vector regression approach'
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2004), Montreal, Canada, May 2004
+  year: 2004
+  doi: 10.1109/ICASSP.2004.1327200
+- authors: M. Lázaro, I. Santamaría, F. Pérez-Cruz and A. Artes
+  title: Support Vector Machine for the simultaneous approximation of a function and its derivative
+  venue: Int. Workshop on Neural Networks for Signal Processing (NNSP 2003), Toulouse, France, September 2003
+  year: 2003
+  doi: 10.1109/NNSP.2003.1318018
+- authors: D. Luengo, I. Santamaría, L. Vielva and C. Pantaleón
+  title: Underdetermined blind separation of sparse sources with instantaneous and convolutive mixtures
+  venue: Int. Workshop on Neural Networks for Signal Processing (NNSP 2003), Toulouse, France, September 2003
+  year: 2003
+  doi: 10.1109/NNSP.2003.1318027
+- authors: M. Lázaro, I. Santamaría, C. Pantaleón, D. Erdogmus, K. E. Hild II and J. C. Principe
+  title: Blind equalization by sampled PDF fitting
+  venue: 4th Int. Symposium on Independent Component Analisys and BSS, Nara, Japan, April 2003
+  year: 2003
+- authors: I. Santamaría, J. Ibáñez, L. Vielva and C. Pantaleón
+  title: Blind equalization of constant modulus signals via support vector regression
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2003), Hong Kong, China, April 2003
+  year: 2003
+- authors: M. Lázaro, I. Santamaría, C. Pantaleón, D. Erdogmus and J. C. Principe
+  title: Matched PDF-based blind equalization
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2003), Hong Kong, China, April 2003
+  year: 2003
+  doi: 10.1109/ICASSP.2003.1202632
+- authors: J. Ibáñez, C. Pantaleón, L. Vielva and I. Santamaría
+  title: 'Teaching digital communications: A DSP approach'
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2003), Hong Kong, China, April 2003
+  year: 2003
+  doi: 10.1109/ICASSP.2003.1199591
+- authors: I. Santamaría, C. Pantaleón, L. Vielva and J. C. Principe
+  title: Adaptive blind equalization through quadratic pdf matching
+  venue: XI European Signal Processing Conference (Eusipco 2002), Toulouse, France, September 2002
+  year: 2002
+- authors: D. Luengo, C.Pantaleón and I. Santamaría
+  title: Bayesian estimation of discrete chaotic signals by MCMC
+  venue: XI European Signal Processing Conference (Eusipco 2002), Toulouse, France, September 2002
+  year: 2002
+- authors: L. Vielva, I. Santamaría, C. Pantaleón, J. Ibáñez, D. Erdogmus and J. C. Principe
+  title: Estimation of the mixing matrix for uderdetermined BSS using spectral estimation techniques
+  venue: XI European Signal Processing Conference (Eusipco 2002), Toulouse, France, September 2002
+  year: 2002
+- authors: J. Ibáñez, C. Pantaleón, J. Diez and I. Santamaría
+  title: Spline pulse-shaping with ISI-free matched filter receiver
+  venue: XI European Signal Processing Conference (Eusipco 2002), Toulouse, France, September 2002
+  year: 2002
+- authors: I. Santamaría, C. Pantaleón, L. Vielva and J. C. Principe
+  title: A Fast Algorithm for Adaptive Blind Equalization usind order-a Renyi Entropy
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2002), Orlando, FL, USA, May 2002
+  year: 2002
+  doi: 10.1109/ICASSP.2002.5745194
+- authors: C. Pantaleón, L. Vielva, D. Luengo and I. Santamaría
+  title: 'Estimation of a Certain Class of Chaotic Signals: an EM-Based Approach'
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2002), Orlando, FL, USA, May 2002
+  year: 2002
+  doi: 10.1109/ICASSP.2002.5743998
+- authors: L. Vielva, D. Erdogmus, C. Pantaleón, I. Santamaría, J. A. Pereda and J. C. Principe
+  title: Underdetermined Blind Source Separation in a Time-Varying Environment
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2002), Orlando, FL, USA, May 2002
+  year: 2002
+  doi: 10.1109/ICASSP.2002.5745292
+- authors: M. Lázaro, I. Santamaría and C. Pantaleón
+  title: A Regularized Digital Filtering Technique for the Simultaneous Reconstruction of a Function and its Derivatives
+  venue: 8th International Conference on Electronics, Circuits and Systems, (ICECS2001), Malta, September 2001
+  year: 2001
+  doi: 10.1109/ICECS.2001.957671
+- authors: D. Luengo, C. Pantaleón and I. Santamaría
+  title: Competitive Chaotic AR(1) Model Estimation
+  venue: Neural Networks for Signal Processing XI (NNSP 2001), Falmouth, MA, USA, September 2001
+  year: 2001
+  doi: 10.1109/NNSP.2001.943113
+- authors: I. Santamaría, C. Pantaleón and J. C. Principe
+  title: Minimizing BER in DFEs with the Adatron Algorithm
+  venue: Neural Networks for Signal Processing XI (NNSP 2001), Falmouth, MA, USA, September 2001
+  year: 2001
+  doi: 10.1109/NNSP.2001.943146
+- authors: M. Lázaro, I. Santamaría and C. Pantaleón
+  title: Accelerating the Convergence of EM-Based Training Algorithms for RBF Networks
+  venue: 6th International Work Conference on Artificial and Natural Neural Networks (IWANN 2001), Granada, Spain, June 2001
+  year: 2001
+  doi: 10.1007/3-540-45720-8_40
+- authors: C. Pantaleón, D. Luengo and I. Santamaría
+  title: Chaotic AR(1) Model Estimation
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2001), Salt Lake City, Utah, USA, May 2001
+  year: 2001
+  doi: 10.1109/ICASSP.2001.940590
+- authors: I. Santamaría, A. Artés, R. González and C. Pantaleón
+  title: A Data Adaptive Regularization Method for Line Spectrum Estimation
+  venue: European Signal Processing Conference (EUSIPCO 2000), Tampere, Finland, September 2000
+  year: 2000
+- authors: C. Pantaleón, D. Luengo and I. Santamaría
+  title: An Efficient Method for Chaotic Signal Parameter Estimation
+  venue: European Signal Processing Conference (EUSIPCO 2000), Tampere, Finland, September 2000
+  year: 2000
+- authors: C. Pantaleón, D. Luengo and I. Santamaría
+  title: Optimal Estimation of a Class of Chaotic Signals
+  venue: 5th International Conference on Signal Processing, Beijing, China, August 2000
+  year: 2000
+  doi: 10.1109/ICOSP.2000.894490
+- authors: M. Lázaro, I. Santamaría, C. Pantaleón, C. Navarro, A. Tazón and T. Fernández
+  title: A Modular Neural Network for Global Modeling of Microwave Transistors
+  venue: IEEE International Joint Conference on Neural Networks (IJCNN 2000), Como, Italy, July 2000
+  year: 2000
+  doi: 10.1109/IJCNN.2000.860803
+- authors: A. Mediavilla, A. Tazón, J. A. Pereda, M. Lázaro, I. Santamaría and C. Pantaleón
+  title: Neuronal Architecture for Waveguide Inductive Iris Bandpass Filter Optimization
+  venue: IEEE International Joint Conference on Neural Networks (IJCNN 2000), Como, Italy, July 2000
+  year: 2000
+  doi: 10.1109/IJCNN.2000.860804
+- authors: C. Pantaleón, D. Luengo and I. Santamaría
+  title: Bayesian Estimation of a Class of Chaotic Signals
+  venue: IEEE Int. Conf. on Acoust., Speech, and Signal Processing (ICASSP 2000), Istanbul, Turkey, June 2000
+  year: 2000
+  doi: 10.1109/ICASSP.2000.861911
+- authors: M. Lázaro, I. Santamaría and C. Pantaleón
+  title: 'Neural Networks for Large and Small-Signal Modeling of MESFET/HEMT Transistors: A Comparative Study'
+  venue: IEEE Instrumentation and Measurement Technology Conference, Baltimore, Maryland, USA, May 2000
+  year: 2000
+  doi: 10.1109/IMTC.2000.848681
+- authors: J. Ibáñez, C. Pantaleón, I. Santamaría, T. Fernández and D. Martínez
+  title: Nonlinearity Estimation in Power Amplifiers Based on Undersampled Temporal Data
+  venue: IEEE Instrumentation and Measurement Technology Conference, Baltimore, Maryland, USA, May 2000
+  year: 2000
+  doi: 10.1109/IMTC.2000.848680
+- authors: M. Lázaro, I. Santamaría and C. Pantaleón
+  title: A Smooth and Derivable Large-Signal Model for Microwave HEMT Transistors
+  venue: The IEEE International Symposium on Circuits and Systems, Geneva, Switzerland, May 2000
+  year: 2000
+  doi: 10.1109/ISCAS.2000.858851
+- authors: D. Luengo, C. Pantaleón, I. Santamaría, J. Ibáñez, C. López-Salaverri, F. Madruga, A. Cobo and J. M. López-Higuera
+  title: A Novel Simultaneous Sampling Technique and its Application to Multipoint Optical Fibre Sensor Accelerometers
+  venue: 9th International Conf. on Signal Processing Applications and Technology, Toronto, Canada, September 1998
+  year: 1998
+- authors: I. Santamaría, C. Pantaleón and A.R. Figueiras-Vidal
+  title: Joint Segmentation and AR Modeling of Quasistationary Signals Using the EM Algorithm
+  venue: IEEE Workshop on Nonlinear Signal and Image Processing, Mackinac Island, Michigan, September 1997
+  year: 1997
+- authors: R. González, I. Santamaría, C. Pantaleón, J. Ibáñez and E. Gómez
+  title: Improved Procedures for Estimating Amplitudes and Phases of Harmonics with Application to Vibration Analysis
+  venue: IEEE Instrumentation and Measurement Technology Conference, Ottawa, Canada, May 1997
+  year: 1997
+- authors: D. Luengo, C. Pantaleón, I. Santamaría, J. Ibáñez and E. Gómez
+  title: Simultaneous Sampling by Digital Phase Correction
+  venue: IEEE Instrumentation and Measurement Technology Conference, Ottawa, Canada, May 1997
+  year: 1997
+  doi: 10.1109/IMTC.1997.610287
+- authors: I. Santamaría, C. Pantaleón, F. Díaz de María and A. Artés
+  title: A New Inverse Filter Criterion for Blind Deconvolution of Spiky Signals Using Gaussian Mixtures
+  venue: Proc. of the 1996 IEEE Int. Conf. on Acoust., Speech, and Signal Processing, (ICASSP 1996) Atlanta, USA, May 1996
+  year: 1996
+  doi: 10.1109/ICASSP.1996.544129
+- authors: I. Santamaría and A. R. Figueiras-Vidal
+  title: Sparse Deconvolution Using Gaussian Mixtures
+  venue: Sixth IEEE Digital Signal Proc. Workshop, Yosemite, USA, October 1994
+  year: 1994
+  doi: 10.1109/DSP.1994.379866
+- authors: I. Santamaría and A. R. Figueiras-Vidal
+  title: Some Weighted Objective Approaches for Sparse Deconvolution
+  venue: Seventh European Signal Processing Conference, (EUSIPCO 1994), Edinburgh, Scotland, September 1994
+  year: 1994
+- authors: A. Malanda, I. Santamaría and A.R. Figueiras-Vidal
+  title: A Genetic Approach to Sparse Deconvolution
+  venue: 4th Cost 229 Workshop on Adaptive Methods and Emergent Techniques for Signal proc. and Comm., Ljubljana, Slovenia, April 1994
+  year: 1994
+- authors: I. Santamaría and A. R. Figueiras-Vidal
+  title: A Linearized Search to Refine Frequency Estimates
+  venue: 2nd Cost 229 Workshop on Adaptive Algorithms in Communications, Bordeaux, France, September 1992
+  year: 1992

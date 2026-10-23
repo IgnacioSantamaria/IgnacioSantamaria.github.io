@@ -1,0 +1,73 @@
+education:
+  - degree: Ph.D. in Telecommunications Engineering
+    place: Universidad Politécnica de Madrid (UPM)
+    year: 1995
+    note: "Advisor: Prof. Antonio Artés Rodríguez"
+  - degree: M.Sc. in Telecommunications Engineering
+    place: Universidad Politécnica de Madrid (UPM)
+    year: 1991
+
+honors:
+  - year: 2022
+    text: IHP International Wolfgang Mehr Fellowship Award
+  - year: 2017
+    text: Fulbright fellowship (research visit to Colorado State University)
+  - year: 2016
+    text: IEEE Signal Processing Society Certificate of Merit for outstanding editorial board service, IEEE Transactions on Signal Processing
+  - year: 2012
+    text: IEEE Signal Processing Society Young Author Best Paper Award (with D. Ramírez)
+  - year: 2008
+    text: Rohde & Schwarz EEEfCOM innovation award for the MIMAX project (co-recipient)
+  - year: 2007
+    text: EUSIPCO Best Student Paper Award (with S. Van Vaerenbergh)
+
+service:
+  - period: 2024–present
+    text: Subject Area Editor, Signal Processing (Elsevier)
+  - period: 2020–present
+    text: Member, IEEE Signal Processing Theory and Methods Technical Committee
+  - period: 2021–present
+    text: Member, Steering Committee of the IEEE Signal Processing Society Data Science Initiative
+  - period: 2013–2015
+    text: Senior Area Editor, IEEE Transactions on Signal Processing
+  - period: 2011–2015
+    text: Associate Editor, IEEE Transactions on Signal Processing
+  - period: 2009–2014
+    text: Member, IEEE Machine Learning for Signal Processing Technical Committee
+  - period: 2024
+    text: Special Sessions co-chair, IEEE ICASSP 2024 (Seoul)
+  - period: 2019
+    text: Finance chair, EUSIPCO 2019 (A Coruña)
+  - period: 2016
+    text: Publicity co-chair, IEEE ICASSP 2016 (Shanghai)
+  - period: 2012
+    text: General co-chair, IEEE Workshop on Machine Learning for Signal Processing (MLSP 2012, Santander)
+  - period: 2016–2020
+    text: Chair of the Department of Communications Engineering (DICOM), University of Cantabria
+
+visits:
+  - period: 2017
+    text: Colorado State University, with Prof. Louis L. Scharf
+  - period: 2015
+    text: Colorado State University, with Prof. Louis L. Scharf
+  - period: 2009
+    text: Wireless Networking and Communications Group, The University of Texas at Austin, with Prof. Robert W. Heath Jr.
+  - period: 2004
+    text: Computational NeuroEngineering Laboratory, University of Florida, with Prof. Jose C. Principe
+  - period: 2000
+    text: Computational NeuroEngineering Laboratory, University of Florida, with Prof. Jose C. Principe
+
+phd_students:
+  - { name: Diego Cuevas, year: 2024, thesis: Advanced Grassmannian Constellation Designs for Noncoherent MIMO Communications }
+  - { name: Vaibhav Garg, year: 2021, thesis: Subspace-based Order Estimation Techniques in Massive MIMO }
+  - { name: Jacobo Fanjul Fernández, year: 2019, thesis: Analysis and Experimental Evaluation of Flexible Duplexing for Multi-Tier MIMO Networks }
+  - { name: Julio César Manco-Vásquez, year: 2015, thesis: Experimental Evaluation of New Detection Techniques for Cognitive Radio Networks }
+  - { name: Christian Lameiro, year: 2015, thesis: Cooperative Techniques for Interference Management in Wireless Networks }
+  - { name: Óscar González, year: 2014, thesis: "Interference Alignment in MIMO Networks: Feasibility and Transceiver Design" }
+  - { name: Fouad Gholam, year: 2011, thesis: Beamforming Design for RF-MIMO Architectures }
+  - { name: David Ramírez, year: 2011, thesis: Detection and Estimation of Time Series using a Multi-sensor Array }
+  - { name: Steven Van Vaerenbergh, year: 2010, thesis: "Kernel methods for nonlinear identification, equalization and separation of signals" }
+  - { name: Javier Vía, year: 2007, thesis: Blind channel estimation and equalization of MIMO channels with and without spatial redundancy }
+  - { name: David Luengo, year: 2006, thesis: Optimal estimation of chaotic signals }
+  - { name: Jesús Ibáñez, year: 2004, thesis: "Polynomial techniques in signal processing: applications to interpolation, nonlinear modeling and communications" }
+  - { name: Marcelino Lázaro, year: 2001, thesis: Nonlinear modeling techniques with derivative constraints and its application to communications }

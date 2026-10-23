@@ -1,0 +1,5 @@
+# Books. Newest first. Optional fields: doi, pdf (local path such as /assets/papers/x.pdf, or a full https:// link), award.
+- authors: D. Ramírez, I. Santamaria, and L. Scharf
+  title: Coherence in Signal Processing and Machine Learning
+  venue: Springer Nature, September 2022
+  year: 2022

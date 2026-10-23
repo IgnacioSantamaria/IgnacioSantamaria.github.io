@@ -1,0 +1,55 @@
+---
+layout: default
+title: Publications
+nav: publications
+permalink: /publications/
+description: Books, journal articles, conference papers and book chapters by Ignacio Santamaria.
+---
+<section class="wrap page-head">
+  <h1>Publications</h1>
+
+  <div class="tools">
+    <div class="search">
+      <label class="sr" for="pub-search">Search publications</label>
+      <input id="pub-search" type="search" placeholder="Search by title, author, venue or year" autocomplete="off">
+    </div>
+    <nav class="jump" aria-label="Jump to a section">
+      {% for sec in site.data.pubsections %}
+      <a href="#{{ sec.key }}">{{ sec.title }}<span>{{ site.data[sec.key] | size }}</span></a>
+      {% endfor %}
+    </nav>
+  </div>
+  <p class="status" id="pub-status" role="status" aria-live="polite"></p>
+</section>
+
+<div class="wrap">
+{% for sec in site.data.pubsections %}
+  {% assign items = site.data[sec.key] %}
+  {% assign total = items | size %}
+  <section class="pub-section" id="{{ sec.key }}" data-pubsection>
+    <h2>{{ sec.title }} <span class="count">{{ total }}</span></h2>
+    {% assign prev = 0 %}
+    {% for p in items %}
+      {% assign n = forloop.rindex %}
+      {% if p.year != prev %}{% assign first = true %}{% else %}{% assign first = false %}{% endif %}
+      {% assign prev = p.year %}
+      {% assign authors = p.authors | escape | replace: 'I. Santamaria', '<strong>I. Santamaria</strong>' | replace: 'I. Santamaría', '<strong>I. Santamaría</strong>' %}
+    <article class="pub{% if first %} first-of-year{% endif %}" data-year="{{ p.year }}" id="{{ sec.prefix | downcase }}{{ n }}">
+      <div class="pub-year">{{ p.year }}</div>
+      <div class="pub-body">
+        <h3 class="pub-title">{{ p.title | escape }}</h3>
+        <p class="pub-authors">{{ authors }}</p>
+        <p class="pub-venue">{{ p.venue | escape }}</p>
+        <p class="pub-meta">
+          {% if p.award %}<span class="award">{{ p.award | escape }}</span>{% endif %}
+          {% if p.pdf %}{% if p.pdf contains '://' %}<a href="{{ p.pdf }}" rel="noopener">PDF</a>{% else %}<a href="{{ p.pdf | relative_url }}">PDF</a>{% endif %}{% endif %}
+          {% if p.doi %}<a href="https://doi.org/{{ p.doi }}" rel="noopener">DOI</a>{% endif %}
+          <span class="pub-id">{{ sec.prefix }}{{ n }}</span>
+        </p>
+      </div>
+    </article>
+    {% endfor %}
+    <p class="empty" hidden>No matches in this section.</p>
+  </section>
+{% endfor %}
+</div>
